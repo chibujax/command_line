@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chibueze Uchendu",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "node-rest-client": "^2.5.0",
+    "prompt": "^1.0.0"
+  }
 }
