@@ -1,0 +1,11 @@
+{
+  "name": "commandline_app",
+  "version": "1.0.0",
+  "description": "Simple command l,ine app to consume web API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chibueze Uchendu",
+  "license": "ISC"
+}
